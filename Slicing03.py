@@ -5,4 +5,5 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    return s[1:-1]
+print(main('d3r7fgf587gf'))
