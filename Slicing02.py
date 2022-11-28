@@ -6,4 +6,5 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    return s[-4:]
+print(main('qw32wdr43w'))
